@@ -4,5 +4,6 @@ This is my talk at AAPS which I am making available for free for anyone who woul
 Please reference Priyata Kalra, Simulations Plus and the github link for the use of reference. This material is for educational purposes. 
 
 # Acknowledgements:
-AAPS community
-Simulations Plus,Inc.
+- AAPS community
+  
+- Simulations Plus,Inc.
